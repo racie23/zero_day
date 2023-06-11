@@ -1,0 +1,1 @@
+The name of the operating system that is being used is printed when you run the command uname without any parameters. Depending on the system you're using, the output could vary.
